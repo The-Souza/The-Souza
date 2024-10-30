@@ -1,10 +1,10 @@
 ### Olá, sou o Guilherme Campos e estudante de programação e tecnologia! 👋🏻
 
 <div href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=The-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=The-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Souza&layout=compact&theme=dracula" />
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Souza&layout=compact&theme=dracula" />
 </div>
 
 ### Tecnologias:
