@@ -1,7 +1,7 @@
-### Olá, sou o Guilherme Campos e estudante de programação e tecnologia! 👋🏻
+### Olá, sou o Guilherme Campos! 👋🏻
 
 ### 👨🏻‍💻 Sobre mim
-Eu sou estudante de programação na linguagem Python.
+Eu sou estudante de programação e tecnologia na linguagem Python.
 
 <div href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=The-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
