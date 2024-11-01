@@ -11,7 +11,7 @@ Eu sou estudante de programação e tecnologia na linguagem Python.
 </div>
 
 ### 🛠 Habilidades
-ETL, Automação Web, Banco de Dados.
+ETL, Automação Web, Análise de Dados.
 
 ### 🌐 Tecnologias:
 
@@ -23,6 +23,5 @@ ETL, Automação Web, Banco de Dados.
 ### 💬 Contato:
  
 <div> 
-  <a href = "mailto:guilhermev272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-campos-446bab2b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
