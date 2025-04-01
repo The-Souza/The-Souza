@@ -18,10 +18,14 @@ Entrem em contato por:
   <a href="https://www.linkedin.com/in/guilherme-campos-446bab2b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+---
+
 ### 🧑‍💻 **Minhas Habilidades**  
 ETL, Automação Web, Análise de Dados.
 
-
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### 🧑‍💻 **Tecnologias**  
 Aqui estão algumas das ferramentas que utilizo:
@@ -33,13 +37,7 @@ Aqui estão algumas das ferramentas que utilizo:
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+---
 
 ### 📊 
 <picture style="background-color: transparent; display: flex; justify-content: center;">
@@ -57,6 +55,5 @@ Aqui estão algumas das ferramentas que utilizo:
     style="background-color: transparent"
   />
 </picture>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+
+---
