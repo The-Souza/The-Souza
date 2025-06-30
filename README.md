@@ -31,10 +31,11 @@ ETL, Automação Web, Análise de Dados.
 Aqui estão algumas das ferramentas que utilizo:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" style="margin: 5px;"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
 </div>
 
 ---
