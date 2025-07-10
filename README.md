@@ -29,8 +29,6 @@ Algumas das ferramentas e linguagens que utilizo:
 <p style="display: flex; justify-content: center; gap: 15px;">
   <img alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
   <img alt="C#" src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" />
-  <img alt="Docker" src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" />
-  <img alt="MySQL" src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" />
   <img alt="GitHub" src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
 </p>
 
