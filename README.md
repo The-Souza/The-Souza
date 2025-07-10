@@ -9,25 +9,11 @@ Olá! Sou o **Guilherme**, desenvolvedor apaixonado por tecnologia e estudante d
 
 ---
 
-## 🌐 Redes Sociais  
-Entre em contato comigo pelas redes sociais abaixo:
-
-<p>
-  <a href="https://www.linkedin.com/in/guilherme-campos-446bab2b8/" target="_blank" style="margin-left:10px;">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/The-Souza" target="_blank" style="margin-left:10px;">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🧑‍💻 Habilidades  
-Principais habilidades e áreas de atuação:
+Principais habilidades:
 
 - ETL  
-- Automação Web  
+- Criação de Dashboard 
 - Análise de Dados  
 
 <p>
@@ -40,7 +26,7 @@ Principais habilidades e áreas de atuação:
 ## 🛠 Tecnologias  
 Algumas das ferramentas e linguagens que utilizo:
 
-<p align="center" style="display: flex; justify-content: center; gap: 15px;">
+<p style="display: flex; justify-content: center; gap: 15px;">
   <img alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
   <img alt="C#" src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" />
   <img alt="Docker" src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" />
@@ -61,7 +47,9 @@ Algumas das ferramentas e linguagens que utilizo:
 
 ## 📬 Contato  
 Sinta-se à vontade para me contatar via LinkedIn ou GitHub, ou envie um email para:  
-**guilhermev272@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos-446bab2b8/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermev272@gmail.com)
 
 ---
 
