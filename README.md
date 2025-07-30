@@ -4,17 +4,19 @@
 
 ---
 
-## 😎 Sobre Mim  
+## 😎 Sobre Mim
+
 Olá! Sou o **Guilherme**, desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
 ---
 
-## 🧑‍💻 Habilidades  
+## 🧑‍💻 Habilidades
+
 Principais habilidades:
 
-- ETL  
-- Criação de Dashboard 
-- Análise de Dados  
+-   ETL
+-   Criação de Dashboard
+-   Análise de Dados
 
 <p>
   <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -23,18 +25,22 @@ Principais habilidades:
 
 ---
 
-## 🛠 Tecnologias  
+## 🛠 Tecnologias
+
 Algumas das ferramentas e linguagens que utilizo:
 
-<p style="display: flex; justify-content: center; gap: 15px;">
-  <img alt="Python" src="https://techstack-generator.vercel.app/python-icon.svg" width="60" />
-  <img alt="C#" src="https://techstack-generator.vercel.app/csharp-icon.svg" width="60" />
-  <img alt="GitHub" src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
+<p style="display: flex; justify-content: flex-start; gap: 15px;">
+  <img alt="Python" src="./img/python-5.svg" width="60" />
+  <img alt="C#" src="./img/c--4.svg" width="60" />
+  <img alt="Html" src="./img/html-1.svg" width="60" />
+  <img alt="Css" src="./img/css-3.svg" width="60" />
+  <img alt="GitHub" src="./img/github-icon-1.svg" width="60" />
 </p>
 
 ---
 
-## 📊 Atividade no GitHub  
+## 📊 Atividade no GitHub
+
 <picture style="background-color: transparent; display: flex; justify-content: center;">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg" />
@@ -43,8 +49,9 @@ Algumas das ferramentas e linguagens que utilizo:
 
 ---
 
-## 📬 Contato  
-Sinta-se à vontade para me contatar via LinkedIn ou GitHub, ou envie um email para:  
+## 📬 Contato
+
+Sinta-se à vontade para me contatar via LinkedIn ou GitHub, ou envie um email para:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos-446bab2b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermev272@gmail.com)
