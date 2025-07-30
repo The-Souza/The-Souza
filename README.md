@@ -1,6 +1,6 @@
-# Guilherme Campos - Desenvolvedor e Estudante de ADS
+# Guilherme Campos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!)](https://git.io/typing-svg)
 
 ---
 
