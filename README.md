@@ -29,26 +29,16 @@ Principais habilidades:
 
 Algumas das ferramentas e linguagens que utilizo:
 
-<p style="display: flex; justify-content: flex-start; gap: 15px;">
-  <img alt="Python" src="./img/python-5.svg" width="60" />
-  <img alt="C#" src="./img/c--4.svg" width="60" />
-  <img alt="React" src="./img/react-2.svg" width="60" />
-  <img alt="Javascript" src="./img/javascript-1.svg" width="60" />
-  <img alt="Typescript" src="./img/typescript.svg" width="60" />
-  <img alt="Html" src="./img/html-1.svg" width="60" />
-  <img alt="Css" src="./img/css-3.svg" width="60" />
-  <img alt="GitHub" src="./img/github-icon-1.svg" width="60" />
+<p aling="left">
+  <img alt="Python" src="./img/python-5.svg" width="40" />
+  <img alt="C#" src="./img/c--4.svg" width="40" />
+  <img alt="React" src="./img/react-2.svg" width="40" />
+  <img alt="Javascript" src="./img/javascript-1.svg" width="40" />
+  <img alt="Typescript" src="./img/typescript.svg" width="40" />
+  <img alt="Html" src="./img/html-1.svg" width="40" />
+  <img alt="Css" src="./img/css-3.svg" width="40" />
+  <img alt="GitHub" src="./img/github-icon-1.svg" width="40" />
 </p>
-
----
-
-## 📊 Atividade no GitHub
-
-<picture style="background-color: transparent; display: flex; justify-content: center;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg" />
-  <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-light.svg" style="background-color: transparent" />
-</picture>
 
 ---
 
