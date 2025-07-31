@@ -14,9 +14,9 @@ Olá! Sou o **Guilherme**, desenvolvedor apaixonado por tecnologia e estudante d
 
 Principais habilidades:
 
--   ETL
--   Criação de Dashboard
--   Análise de Dados
+- ETL
+- Criação de Dashboard
+- Análise de Dados
 
 <p>
   <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -39,6 +39,14 @@ Algumas das ferramentas e linguagens que utilizo:
   <img alt="Css" src="./img/css-3.svg" width="40" />
   <img alt="GitHub" src="./img/github-icon-1.svg" width="40" />
 </p>
+
+---
+
+## 📊 Atividade no GitHub
+
+<div aling="center">
+  <img src="https://raw.githubusercontent.com/The-Souza/The-Souza/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
