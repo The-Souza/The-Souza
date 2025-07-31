@@ -1,61 +1,54 @@
-# Guilherme Campos
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&vCenter=true&width=1000&lines=😎Olá,+Seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme!;🧑‍💻Sou+estudante+de+ADS)](https://git.io/typing-svg)
 
 ---
 
 ## 😎 Sobre Mim
 
-Olá! Sou o **Guilherme**, desenvolvedor apaixonado por tecnologia e estudante de Análise e Desenvolvimento de Sistemas (ADS).
+Olá! Me chamo **Guilherme** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com grande entusiasmo por tecnologia, dados e desenvolvimento de software.
+
+Tenho conhecimento prático com **Power BI**, **Python** e **C#**, além de explorar o universo do desenvolvimento web utilizando **React** e **TypeScript**.
 
 ---
 
-## 🧑‍💻 Habilidades
+## 🧠 Habilidades
 
-Principais habilidades:
+Minhas principais competências incluem:
 
-- ETL
-- Criação de Dashboard
-- Análise de Dados
-
-<p>
-  <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+- **ETL (Extração, Transformação e Carga de Dados)** para organização e preparação de dados.
+- **Visualização e Análise de Dados**: criação de dashboards interativos e relatórios com foco em insights e tomada de decisão.
+- **Manipulação de dados** com ferramentas como **Power BI**, **Excel** e bibliotecas do **Python** (como `pandas`, `matplotlib`).
+- **Desenvolvimento Web**: conhecimento em **React**, **JavaScript**, **TypeScript**, **HTML** e **CSS**.
+- **Banco de Dados (CRUD)**: experiência com consultas em **SQL** para extração, inserção e análise de informações.
 
 ---
 
 ## 🛠 Tecnologias
 
-Algumas das ferramentas e linguagens que utilizo:
+Ferramentas e linguagens com as quais tenho experiência:
 
-<p aling="left">
-  <img alt="Python" src="./img/python-5.svg" width="40" />
-  <img alt="C#" src="./img/c--4.svg" width="40" />
-  <img alt="React" src="./img/react-2.svg" width="40" />
-  <img alt="Javascript" src="./img/javascript-1.svg" width="40" />
-  <img alt="Typescript" src="./img/typescript.svg" width="40" />
-  <img alt="Html" src="./img/html-1.svg" width="40" />
-  <img alt="Css" src="./img/css-3.svg" width="40" />
+<p align="left">
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </p>
 
 ---
 
 ## 📊 Atividade no GitHub
 
-<div aling="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/The-Souza/The-Souza/output/snake.svg" alt="Snake animation" />
-</div>
+</p>
 
 ---
 
 ## 📬 Contato
 
-Sinta-se à vontade para me contatar via LinkedIn ou GitHub, ou envie um email para:
+Entre em contato comigo pelo LinkedIn ou envie um e-mail:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos-446bab2b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermev272@gmail.com)
-
----
-
-Obrigado pela visita! 🚀
