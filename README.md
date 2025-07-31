@@ -37,7 +37,6 @@ Algumas das ferramentas e linguagens que utilizo:
   <img alt="Typescript" src="./img/typescript.svg" width="40" />
   <img alt="Html" src="./img/html-1.svg" width="40" />
   <img alt="Css" src="./img/css-3.svg" width="40" />
-  <img alt="GitHub" src="./img/github-icon-1.svg" width="40" />
 </p>
 
 ---
