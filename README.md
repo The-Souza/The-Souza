@@ -1,30 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme!;🧑‍💻Sou+estudante+de+ADS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme!;🧑‍💻Sou+estudante+de+ADS+e+Desenvolvedor+Júnior)](https://git.io/typing-svg)
 
 ---
 
 ## 😎 Sobre Mim
 
-Olá! Me chamo **Guilherme** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com grande entusiasmo por tecnologia, dados e desenvolvimento de software.
+Olá! Sou **Guilherme**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor focado em tecnologias back-end, front-end e análise de dados.
 
-Tenho conhecimento prático com **Power BI**, **Python** e **C#**, além de explorar o universo do desenvolvimento web utilizando **React** e **TypeScript**.
+Tenho experiência prática em desenvolvimento com **C# (.NET)**, manipulação e análise de dados com **Python** e **SQL**, além de conhecimentos em desenvolvimento web usando **React**, **TypeScript**, **Javascript**, **HTML** e **CSS** (Bootstrap e Tailwind).
 
----
-
-## 🧠 Habilidades
-
-Minhas principais competências incluem:
-
-- **ETL (Extração, Transformação e Carga de Dados)** para organização e preparação de dados.
-- **Visualização e Análise de Dados**: criação de dashboards interativos e relatórios com foco em insights e tomada de decisão.
-- **Manipulação de dados** com ferramentas como **Power BI**, **Excel** e bibliotecas do **Python** (como `pandas`, `matplotlib`).
-- **Desenvolvimento Web**: conhecimento em **React**, **JavaScript**, **TypeScript**, **HTML** e **CSS**.
-- **Banco de Dados (CRUD)**: experiência com consultas em **SQL** para extração, inserção e análise de informações.
+Sempre buscando aplicar boas práticas de programação, versionamento com Git e metodologias ágeis.
 
 ---
 
-## 🛠 Tecnologias
+## 🧠 Habilidades Técnicas
 
-Ferramentas e linguagens com as quais tenho experiência:
+- **Back-end:** C# (.NET), Entity Framework Core
+- **Front-end:** React, JavaScript, TypeScript, HTML5, CSS3 (Bootstrap, Tailwind)
+- **Análise e manipulação de dados:** Python (pandas, matplotlib), SQL, Power BI, ETL
+- **Versionamento:** Git, GitHub, Azure DevOps
+- **Metodologias:** Clean Code, Agile (SCRUM)
+
+---
+
+## 🚀 Projetos
+
+- **Gerador de Arquivo JSON:** aplicação em C# para criação automática de arquivos JSON.
+- **Manipulação de Banco de Dados com Entity Framework Core:** integração C# com SQL Server.
+- **Formulário de Login:** front-end com HTML, CSS e JavaScript.
+- **Shopping List:** aplicação com Vite, Bootstrap e TypeScript.
+
+Todos os projetos estão disponíveis no meu GitHub: [github.com/The-Souza](https://github.com/The-Souza)
+
+---
+
+## 🛠 Tecnologias e Ferramentas
 
 <p align="left">
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
@@ -36,17 +45,12 @@ Ferramentas e linguagens com as quais tenho experiência:
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-## 📊 Atividade no GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/The-Souza/The-Souza/output/snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ## 📬 Contato
 
@@ -54,3 +58,5 @@ Entre em contato comigo pelo LinkedIn ou envie um e-mail:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos-446bab2b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermev272@gmail.com)
+
+---
