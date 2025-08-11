@@ -24,12 +24,13 @@ Sempre buscando aplicar boas práticas de programação, versionamento com Git e
 
 ## 🚀 Projetos
 
-- **Gerador de Arquivo JSON:** aplicação em C# para criação automática de arquivos JSON.
-- **Manipulação de Banco de Dados com Entity Framework Core:** integração C# com SQL Server.
-- **Formulário de Login:** front-end com HTML, CSS e JavaScript.
-- **Shopping List:** aplicação com Vite, Bootstrap e TypeScript.
+Todos os projetos disponíveis no meu GitHub:
 
-Todos os projetos estão disponíveis no meu GitHub: [github.com/The-Souza](https://github.com/The-Souza)
+- [**Gerador de Arquivo JSON:**](https://github.com/The-Souza/Gerador_Arquivo_Json) aplicação em C# para criação automática de arquivos JSON.
+- [**Manipulação de Banco de Dados com Entity Framework Core:**](https://github.com/The-Souza/Banco_de_Dados) integração C# com SQL Server.
+- [**Formulário de Login:**](https://github.com/The-Souza/Projeto_Web) front-end com HTML, CSS e JavaScript.
+- [**Shopping List:**](https://github.com/The-Souza/Shopping_List) aplicação com Vite, Bootstrap e TypeScript.
+
 
 ---
 
