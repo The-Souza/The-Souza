@@ -1,63 +1,135 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme!;🧑‍💻Sou+estudante+de+ADS+e+Desenvolvedor+Júnior)](https://git.io/typing-svg)
+## 🧑‍💻 Desenvolvedor Frontend | React • TypeScript • Tailwind
+
+## 👋 Sobre Mim
+
+Olá! Sou **Guilherme Campos**, **formado em Análise e Desenvolvimento de Sistemas (ADS)** e **Desenvolvedor Frontend**, com experiência prática em **projetos profissionais e aplicações em produção**.
+
+Atuo principalmente no desenvolvimento de interfaces modernas e performáticas com **React, TypeScript e Tailwind CSS**, aplicando princípios de **Clean Code**, **Single Responsibility Principle (SRP)** e organização em **arquitetura em camadas**.
+
+Possuo experiência em **ambiente corporativo**, trabalhando em sistemas utilizados por **usuários internos, profissionais externos e público geral**, integrando **frontend moderno** com **backend em ASP.NET** e APIs internas.
+
+📌 Busco oportunidades como **Desenvolvedor Frontend Júnior** ou **Fullstack Júnior**, com foco em evolução técnica e entrega de soluções bem estruturadas.
+
+💡 Interesse em atuar com produtos digitais, sistemas escaláveis e times colaborativos.
 
 ---
 
-## 😎 Sobre Mim
+## 🚀 Projeto em Destaque
 
-Olá! Sou **Guilherme**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor focado em tecnologias back-end, front-end e análise de dados.
+### 📊 Account Management — Aplicação Fullstack
 
-Tenho experiência prática em desenvolvimento com **C# (.NET)**, manipulação e análise de dados com **Python** e **SQL**, além de conhecimentos em desenvolvimento web usando **React**, **TypeScript**, **Javascript**, **HTML** e **CSS** (Bootstrap e Tailwind).
+Projeto desenvolvido com foco em **arquitetura limpa, reutilização de componentes e experiência do usuário**.
 
-Sempre buscando aplicar boas práticas de programação, versionamento com Git e metodologias ágeis.
+Aplicação fullstack para **gerenciamento de contas financeiras**, com autenticação, dashboard interativo e suporte completo a **tema light/dark**.
+
+- 🟢 **Status:** Em produção
+- ☁️ **Arquitetura:** Serverless (Vercel)
+- 🔐 Autenticação JWT
+- 📊 Dashboards interativos
+- 📱 Responsivo (desktop e mobile)
+
+🔗 **Repositório:** https://github.com/The-Souza/Account-Management  
+🌐 **Live Demo:** https://account-management-j8fjezo7f-the-souzas-projects.vercel.app
+
+---
+
+## 💼 Experiência Profissional
+
+### 🏛️ Estágio em Desenvolvimento de Software  
+**CREA-SP – Conselho Regional de Engenharia e Agronomia do Estado de São Paulo**
+
+**Principais atividades:**
+
+- Desenvolvimento de **páginas completas em ASP.NET Web Forms**, atuando em:
+  - layout, estilização, scripts JavaScript, eventos e code-behind
+- Organização do código com **partials**, promovendo separação clara de responsabilidades
+- Aplicação prática do **Single Responsibility Principle (SRP)**, evitando arquivos monolíticos e facilitando manutenção e evolução do sistema
+- Criação de **componentes reutilizáveis** com **TypeScript** e **Tailwind CSS**
+- Aplicação de abordagem **component-based**
+- Escrita de **testes unitários para componentes**
+- Integração do frontend moderno com sistema legado em **C# ASP.NET Web Forms**
+- Exportação do build (`dist`) via **Vite** para consumo no **Visual Studio**
+- Atuação em projeto de **remodelação e modernização incremental** de um sistema institucional
+- Atuação no backend em **ASP.NET Web Forms**, incluindo:
+  - Organização de código com **partial classes**
+  - Implementação de **code-behind**, eventos e regras de negócio
+  - Criação e manutenção de **Services**, **Helpers** e **Handlers**
+  - Separação clara de responsabilidades entre:
+    - lógica de negócio
+    - manipulação de eventos
+    - scripts JavaScript
+    - estilização das páginas
+- Integração com **APIs internas**
+- Contato com **banco de dados DB2**
+- Trabalho colaborativo em ambiente corporativo
+
+**Stack utilizada:**  
+`C# · ASP.NET Web Forms · TypeScript · Tailwind CSS · Vite · DB2 · APIs internas · Testes unitários`
 
 ---
 
 ## 🧠 Habilidades Técnicas
 
-- **Back-end:** C# (.NET), Entity Framework Core
-- **Front-end:** React, JavaScript, TypeScript, HTML5, CSS3 (Bootstrap, Tailwind)
-- **Análise e manipulação de dados:** Python (pandas, matplotlib), SQL, Power BI, ETL
-- **Versionamento:** Git, GitHub, Azure DevOps
-- **Metodologias:** Clean Code, Agile (SCRUM)
+### Frontend
+- React
+- TypeScript / JavaScript
+- HTML5 / CSS3
+- Tailwind CSS / Bootstrap
+- Vite
+- Componentização reutilizável
+- Responsividade (Mobile-first)
+
+### Backend
+- Node.js
+- Express
+- APIs REST
+- Autenticação JWT
+- C# (.NET)
+- ASP.NET Web Forms
+- Supabase (Auth, Database, Storage)
+
+### Arquitetura & Boas Práticas
+- Clean Code
+- Single Responsibility Principle (SRP)
+- Arquitetura em camadas
+- Testes unitários
+- Context API & Hooks
+
+### Dados & Ferramentas
+- PostgreSQL (via Supabase)
+- SQL
+- DB2
+- Git & GitHub
+- Visual Studio
+- Visual Studio Code
+- Azure DevOps
 
 ---
 
-## 🚀 Projetos
+## 🛠 Tecnologias & Ferramentas
 
-Todos os projetos disponíveis no meu GitHub:
-
-- [**Gerador de Arquivo JSON:**](https://github.com/The-Souza/Gerador_Arquivo_Json) aplicação em C# para criação automática de arquivos JSON.
-- [**Manipulação de Banco de Dados com Entity Framework Core:**](https://github.com/The-Souza/Banco_de_Dados) integração C# com SQL Server.
-- [**Formulário de Login:**](https://github.com/The-Souza/Projeto_Web) front-end com HTML, CSS e JavaScript.
-- [**Shopping List:**](https://github.com/The-Souza/Shopping_List) aplicação com Vite, Bootstrap e TypeScript.
-
-
----
-
-## 🛠 Tecnologias e Ferramentas
-
+**Frontend**
 <p align="left">
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" />
-  <img alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
+**Backend & Outros**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-
 ## 📬 Contato
-
-Entre em contato comigo pelo LinkedIn ou envie um e-mail:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-campos-446bab2b8/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilhermev272@gmail.com)
 
 ---
+
