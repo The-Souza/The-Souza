@@ -35,7 +35,7 @@ Aplicação fullstack para **gerenciamento de contas financeiras**, com autentic
 
 ## 💼 Experiência Profissional
 
-### 🏛️ Estágio em Desenvolvimento de Software  
+### 🏛️ Estágio - EDAD 
 **CREA-SP – Conselho Regional de Engenharia e Agronomia do Estado de São Paulo**
 
 **Principais atividades:**
