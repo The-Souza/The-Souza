@@ -68,7 +68,7 @@ https://account-management-gilt.vercel.app/
 
 ## 💼 Experiência Profissional
 
-### 🏛️ Estágio em Desenvolvimento de Software  
+### 🏛️ Estágio - EDAD 
 **CREA-SP – Conselho Regional de Engenharia e Agronomia do Estado de São Paulo**
 
 **Principais atividades:**
